@@ -37,11 +37,3 @@ When I'm not experimenting with AI models, I enjoy exploring the intersection of
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhra92&show_icons=true&theme=tokyonight" alt="Akhrorjon's GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akhra92&theme=tokyonight" alt="Akhrorjon's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhra92&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Akhrorjon's GitHub Trophies" />
-</p>
