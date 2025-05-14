@@ -30,4 +30,18 @@
 ### ⚡ Fun fact
 When I'm not experimenting with AI models, I enjoy exploring the intersection of **art, technology, and creativity to build impactful real-world applications.**
 
+---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhrorjon&show_icons=true&theme=tokyonight" alt="Akhrorjon's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=akhrorjon&theme=tokyonight" alt="Akhrorjon's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=akhrorjon&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="Akhrorjon's GitHub Trophies" />
+</p>
