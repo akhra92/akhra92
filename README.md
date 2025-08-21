@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Akhrorjon</h1>
-<h3 align="center">AI Engineer | PhD Candidate at Kyungpook National University</h3>
+<h3 align="center">AI Engineer | PhD</h3>
 
 <p align="center">
   <a href="mailto:akhrorrakhmonov@gmail.com"><img src="https://img.shields.io/badge/email-akhrorrakhmonov%40gmail.com-red?style=flat-square&logo=gmail"></a>
@@ -9,7 +9,8 @@
 ---
 
 ### 🚀 About Me
-- 👨‍💻 Currently pursuing **PhD @ Kyungpook National University**
+- 👨‍💻 **PhD Degree from Kyungpook National University**
+- 💻 Currently working **Data Scientist @ InterX Lab, Seoul, South Korea**
 - 🏭 Focused on **Computer Vision and LLMs**
 - 🛠 Tech Stack:  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
@@ -18,8 +19,9 @@
   ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv)
   ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 
-- 🌍 Based in **Daegu, South Korea** 🇰🇷 | Originally from **Uzbekistan** 🇺🇿  
+- 🌍 Based in **Seoul, South Korea** 🇰🇷 | Originally from **Uzbekistan** 🇺🇿  
 
 ### 📫 Contact
 - 📧 Email: [akhrorrakhmonov@gmail.com](mailto:akhrorrakhmonov@gmail.com)
