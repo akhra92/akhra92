@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 - 👨‍💻 **PhD Degree from Kyungpook National University**
-- 💻 Currently working **Data Scientist @ InterX Lab, Seoul, South Korea**
+- 💻 Currently working **AI Engineer @ OndAI Inc, Seoul, South Korea**
 - 🏭 Focused on **Computer Vision and LLMs**
 - 🛠 Tech Stack:  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
