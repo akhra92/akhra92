@@ -37,5 +37,5 @@ When I'm not experimenting with AI models, I enjoy exploring the intersection of
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akhra92&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=akhra92&show_icons=true&theme=tokyonight" alt="Akhrorjon's GitHub Stats" />
 </p>
