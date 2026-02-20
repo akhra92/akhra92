@@ -37,5 +37,5 @@ When I'm not experimenting with AI models, I enjoy exploring the intersection of
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akhra92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/akhra92" alt="GitHub Chart" />
 </p>
