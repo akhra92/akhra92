@@ -30,7 +30,7 @@
 ---
 
 ### ⚡ Fun fact
-When I'm not experimenting with AI models, I enjoy exploring the intersection of **art, technology, and creativity to build impactful real-world applications.**
+When I’m not coding, I’m probably pretending to understand my own code or searching for snacks that compile successfully.
 
 ---
 
