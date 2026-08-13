@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:akhrorrakhmonov@gmail.com"><img src="https://img.shields.io/badge/email-akhrorrakhmonov%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://akhrorjon.carrd.co"><img src="https://img.shields.io/badge/portfolio-Visit-green?style=flat-square&logo=about-dot-me"></a>
+  <a href="https://akhra92.github.io"><img src="https://img.shields.io/badge/portfolio-Visit-green?style=flat-square&logo=about-dot-me"></a>
 </p>
 
 ---
@@ -25,7 +25,7 @@
 
 ### 📫 Contact
 - 📧 Email: [akhrorrakhmonov@gmail.com](mailto:akhrorrakhmonov@gmail.com)
-- 💼 [Resume & Portfolio](https://akhrorjon.carrd.co)
+- 💼 [Resume & Portfolio](https://akhra92.github.io)
 
 ---
 
