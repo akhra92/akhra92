@@ -37,13 +37,13 @@ When I’m not coding, I’m probably pretending to understand my own code or se
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akhra92&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akhra92&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=akhra92&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=akhra92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Contribution Chart" src="https://ghchart.rshah.org/409ba5/akhra92" />
+  <img src="https://ghchart.rshah.org/akhra92" alt="GitHub Contribution Chart" />
 </p>
