@@ -41,10 +41,9 @@ When I’m not coding, I’m probably pretending to understand my own code or se
 </p>
 
 <p align="center">
-  <img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhra92&theme=tokyonight" />
-  <img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhra92&theme=tokyonight" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=akhra92&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=akhra92&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Contribution Chart" src="https://ghchart.rshah.org/409ba5/akhra92" />
 </p>
