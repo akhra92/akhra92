@@ -37,5 +37,14 @@ When I’m not coding, I’m probably pretending to understand my own code or se
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=akhra92&theme=tokyonight&hide_border=true&v=2" />
+  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akhra92&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img alt="Top Languages by Repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akhra92&theme=tokyonight" />
+  <img alt="Top Languages by Commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akhra92&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=akhra92&theme=tokyonight&hide_border=true" />
 </p>
