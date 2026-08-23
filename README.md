@@ -36,9 +36,9 @@ When I’m not coding, I’m probably pretending to understand my own code or se
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akhra92&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=akhra92&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
