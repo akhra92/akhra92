@@ -37,5 +37,5 @@ When I’m not coding, I’m probably pretending to understand my own code or se
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhra92&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=akhra92&theme=tokyonight&hide_border=true" />
 </p>
